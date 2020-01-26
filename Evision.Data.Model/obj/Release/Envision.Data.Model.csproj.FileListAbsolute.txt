@@ -1,0 +1,14 @@
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\bin\Release\Evision.Data.Model.dll.config
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\bin\Release\Evision.Data.Model.dll
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\bin\Release\Evision.Data.Model.pdb
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\bin\Release\EntityFramework.dll
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\bin\Release\EntityFramework.xml
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\obj\Release\Envision.Data.Model.csprojResolveAssemblyReference.cache
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\obj\Release\Evision.Data.Model.dll
+C:\Users\Giovanni\Dropbox\Codeplex-CC\ccampmay26\Final Project\Envision(fixed)\Envision\Evision.Data.Model\obj\Release\Evision.Data.Model.pdb
